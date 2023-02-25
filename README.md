@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi, I'm Onkar Yaglewad</h1>
-<h3 align="center">Software Engineer @ sopra steria | Technical Content Writer @ geeksforgeeks</h3>
+<h3 align="center">CSE Undergrad'26 | Technical Content Writer @ geeksforgeeks</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/yaglewad-onkar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Profile | Yaglewad Onkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yaglewad_onkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Hackerrank Profile | Yaglewad Onkar" height="30" width="40" /></a>
