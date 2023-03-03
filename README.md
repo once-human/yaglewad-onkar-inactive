@@ -15,7 +15,7 @@
 </p>
 </p>
 
-✔ Pronouns: **He/His** or **TeamMaker**😉 <br>
+✔ Pronouns: **He/His** or **TeamLead**😉 <br>
 ✔ I’m currently Developing **My Portfolio** <br>
 ✔ I’m currently learning **openApi Specification** & **azure fundamentals**<br>
 ✔ I'm quite good at **NodeJs**, **ReactJs**, **openApi**, **Next.js**.<br>
