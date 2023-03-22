@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/yaglewad-onkar/yaglewad-onkar/main/cover-onkar-github.png" height="200"/>
 </p>
@@ -43,16 +44,14 @@ If you're interested in working on exciting projects, feel free to reach out and
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaglewad-onkar&label=Profile%20views&color=0e75b6&style=flat" alt="yaglewad-onkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaglewad-onkar" alt="yaglewad-onkar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaglewad-onkar" alt="yaglewad-onkar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yaglewad_onkar" target="blank"><img src="https://img.shields.io/twitter/follow/yaglewad_onkar?logo=twitter&style=for-the-badge" alt="yaglewad_onkar" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yaglewad_onkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaglewad_onkar" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/yaglewad-onkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaglewad-onkar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21453288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21453288" height="30" width="40" /></a>
 <a href="https://instagram.com/yaglewad_onkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaglewad_onkar" height="30" width="40" /></a>
+<a href="https://twitter.com/yaglewad_onkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaglewad_onkar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21453288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21453288" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yaglewad_onkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yaglewad_onkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yaglewad_onkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yaglewad_onkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yaglewad_onkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yaglewad_onkar" height="30" width="40" /></a>
