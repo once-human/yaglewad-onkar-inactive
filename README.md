@@ -34,7 +34,7 @@
 
 
 <!-- Stats 2 -->
-<div>
+<div align='center'>
     <h2><img  width="35"
             src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
 
