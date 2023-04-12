@@ -15,6 +15,9 @@
 <h3 align="center">CSE Undergrad'26 | D Y Patil International University</h3>
 <p align="center">
 
+<!--Graph-->
+![Onkar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yaglewad-onkar&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+
 ## About Me
 
 I'm a first-year student at DY Patil International University, Akurdi, Pune. I am a passionate technology enthusiast who loves exploring new technologies and coding languages. My journey in coding began at the age of 12, and since then, I've worked on several exciting projects that have honed my coding skills. 
