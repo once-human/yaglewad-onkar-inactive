@@ -5,7 +5,7 @@
 </a>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hi+I'm+Onkar+Yaglewad;I'm+from+Pune;I'm+18+years+old;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;I'm+from+Pune;I'm+18+years+old;)
 
 <p align="center">
   <img src="https://github.com/yaglewad-onkar/readme/blob/main/assets/cover-onkar-github.png" height="200"/>
@@ -89,3 +89,12 @@ If you're interested in working on exciting projects, feel free to reach out and
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yaglewad-onkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b3ff&height=120&section=footer"/>
+
+
+
