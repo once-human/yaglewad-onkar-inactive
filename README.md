@@ -1,5 +1,7 @@
 <!-- <img src='https://github.com/yaglewad-onkar/readme/blob/main/assets/bottom_up.svg'> -->
 
+![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
+
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b3ff&height=120&section=header"/>
 </a>
@@ -8,16 +10,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;I'm+from+Pune;I'm+18+years+old;)
 
 
-![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
+
 
 
 <p align="center">
   <img src="https://github.com/yaglewad-onkar/readme/blob/main/assets/cover-onkar-github.png" height="200"/>
 </p>
-<hr>
-<h1 align="center">Hi, I'm Onkar Yaglewad 👋</h1>
-<h3 align="center">CSE Undergrad'26 | D Y Patil International University</h3>
-<p align="center">
+
+
+![Onkar's GitHub activity graph](https://raw.githubusercontent.com/yaglewad-onkar/yaglewad-onkar/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 
 <!--Graph-->
 ![Onkar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yaglewad-onkar&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
