@@ -27,6 +27,15 @@
 </div> 
 
 
+<!-- Visitor's Count -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaglewad-onkar}/count.svg" /></p> 
+<br>
+</div>
+
+<a href="https://github.com/yaglewad-onkar"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@yaglewad-onkar" border="0"></a>
+
  <!--Total Contributions--> 
  <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=yaglewad-onkar&theme=tokyonight_duo&hide_border=true"
