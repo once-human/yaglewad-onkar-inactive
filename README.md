@@ -7,6 +7,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;I'm+from+Pune;I'm+18+years+old;)
 
+
+![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
+
+
 <p align="center">
   <img src="https://github.com/yaglewad-onkar/readme/blob/main/assets/cover-onkar-github.png" height="200"/>
 </p>
@@ -33,8 +37,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaglewad-onkar}/count.svg" /></p> 
 <br>
 </div>
-
-<a href="https://github.com/yaglewad-onkar"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@yaglewad-onkar" border="0"></a>
 
  <!--Total Contributions--> 
  <p align="center">
