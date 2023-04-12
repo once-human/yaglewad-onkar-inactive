@@ -94,22 +94,32 @@
 
     💬 If you want to talk code, hit me up!
 
-
-## About Me
-
-I'm a first-year student at DY Patil International University, Akurdi, Pune. I am a passionate technology enthusiast who loves exploring new technologies and coding languages. My journey in coding began at the age of 12, and since then, I've worked on several exciting projects that have honed my coding skills. 
 </div>
 
 <div align = 'center'>
 
-## Projects
+<!-- ## Projects
 
 * Norse Music Player Web and Android App with over 5K listeners.
 * Social Networking Community with over 500 users.
 * Backend development of Linterex's official website.
 * WebGL and Web Screen development of Atmos, a 3D social interactive VR space platform startup.
-* Completed several Wordpress development and E-commerce platform development projects.
+* Completed several Wordpress development and E-commerce platform development projects. -->
+## 🚀 My Projects
 
+    🌐 "MahaDarshan" - A website for tourists to explore Maharashtra's famous places. 🌴
+
+    👥 "Drip Limitless" - A social networking community with over 500 users. 🤝
+   
+    🎧 "Norse Music Player" - Web and Android app with over 5k listeners. 🎶
+
+    💻 "Linterex" - Contributed to backend development of a global community for hackers. 🔒
+
+    🌎 "Atmos" - Worked on WebGL and Web Screen development of a 3D social interactive VR space platform startup. 🚀
+
+    🤖 "Attendify" - Built an AI-based system to mark attendance at DY Patil International University. 🔍
+
+    🤝 Let's connect and collaborate on exciting projects! 💡
 
 
 
