@@ -96,19 +96,22 @@ I'm a first-year student at DY Patil International University, Akurdi, Pune. I a
 
 🕵️‍♂️ About Me
 
-    🙂 I am Mohamed Abdelmonem And Im 19 years old.
+    🙂 Hey there, I'm Onkar Yaglewad, a 1st-year student at DY Patil International University, Akurdi, Pune.
 
-    📍 Im Egyptian and I live in Mansoura,Egypt.
+
+    📍 Based in Pune, India, I'm a technology enthusiast passionate about exploring new coding languages and technologies.
+
    
-    😎 Interested in contributing expertise in web development.
+    😎 With six years of experience in coding, I specialize in web development and backend programming.
 
-    👯 Looking to collaborate on Innovative Projects.
+    👯 I'm always looking for exciting projects and collaborations that can help me innovate and grow as a developer.
 
-    👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
+    👨‍💻 I love contributing to open-source projects and learning new technologies to improve my coding skills.
 
-    📚 Love reading books on personal development.
+    📚 In my free time, I enjoy reading books on personal development and entrepreneurship.
 
-    💬 Ask me about Web.
+    💬 Feel free to ask me anything about web development. Let's connect and collaborate on innovative projects!
+
 
 </div>
 ## Languages and Tools
