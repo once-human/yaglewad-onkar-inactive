@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/yaglewad-onkar/readme/blob/main/assets/cover-onkar-github.png" height="200"/>
 </p>
+<img src='https://github.com/yaglewad-onkar/readme/blob/main/assets/bottom_up.svg'>
 <hr>
 <h1 align="center">Hi, I'm Onkar Yaglewad 👋</h1>
 <h3 align="center">CSE Undergrad'26 | D Y Patil International University</h3>
