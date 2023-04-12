@@ -14,14 +14,21 @@
 
 
 <p align="center">
-  <img src="https://github.com/yaglewad-onkar/readme/blob/main/assets/cover-onkar-github.png" height="200"/>
+  <img src="https://github.com/yaglewad-onkar/yaglewad-onkar/blob/main/assets/cover-onkar-github.png" height="200"/>
 </p>
+
+
+<div align="center">
+
 
 
 ![Onkar's GitHub activity graph](https://raw.githubusercontent.com/yaglewad-onkar/yaglewad-onkar/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 
-<!--Graph-->
-![Onkar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yaglewad-onkar&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+
+
+![Onkar's GitHub activity graph](https://raw.githubusercontent.com/yaglewad-onkar/yaglewad-onkar/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+
+</div>
 
 
 
