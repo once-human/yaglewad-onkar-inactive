@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yaglewad-onkar/yaglewad-onkar/main/assets/cover-onkar-github.png" height="200"/>
+  <img src="https://github.com/yaglewad-onkar/readme/blob/main/assets/cover-onkar-github.png" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi, I'm Onkar Yaglewad 👋</h1>
