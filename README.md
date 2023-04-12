@@ -1,28 +1,23 @@
 <!-- <img src='https://github.com/yaglewad-onkar/readme/blob/main/assets/bottom_up.svg'> -->
 
+<!-- Header gif -->
 ![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
 
+
+<!-- Header section -->
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b3ff&height=120&section=header"/>
 </a>
 
 
+<!-- Welcome Typing -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;I'm+from+Pune;I'm+18+years+old;)
 
 
-
-
-
-<p align="center">
-  <img src="https://github.com/yaglewad-onkar/yaglewad-onkar/blob/main/assets/cover-onkar-github.png" height="200"/>
-</p>
-
+<!-- Snake Generation -->
 <div align="center">
 
-
-
 ![Onkar's GitHub activity graph](https://raw.githubusercontent.com/yaglewad-onkar/yaglewad-onkar/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-
 
 
 ![Onkar's GitHub activity graph](https://raw.githubusercontent.com/yaglewad-onkar/yaglewad-onkar/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
