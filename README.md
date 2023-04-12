@@ -1,4 +1,9 @@
-<img src='https://github.com/yaglewad-onkar/readme/blob/main/assets/bottom_up.svg'>
+<!-- <img src='https://github.com/yaglewad-onkar/readme/blob/main/assets/bottom_up.svg'> -->
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b3ff&height=120&section=header"/>
+</a>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hi+I'm+Onkar+Yaglewad;I'm+from+Pune;I'm+18+years+old;)
 
