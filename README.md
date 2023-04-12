@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://github.com/yaglewad-onkar/yaglewad-onkar/blob/main/assets/cover-onkar-github.png" height="200"/>
 </p>
-trial
 
 <div align="center">
 
