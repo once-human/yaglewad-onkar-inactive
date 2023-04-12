@@ -1,8 +1,6 @@
 <img src='https://github.com/yaglewad-onkar/readme/blob/main/assets/bottom_up.svg'>
 
-
-!--Title @bastndev-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Perú;I'm+24+years+old;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hi+I'm+Onkar+Yaglewad;I'm+from+Pune;I'm+18+years+old;)
 
 <p align="center">
   <img src="https://github.com/yaglewad-onkar/readme/blob/main/assets/cover-onkar-github.png" height="200"/>
