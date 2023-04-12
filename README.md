@@ -78,6 +78,23 @@
 
 <div align = 'center'>
 
+## 👨‍💻 Who Am I?
+
+    🙂 Hola, I'm Onkar Yaglewad, a FY student at DYPIU, Akurdi, Pune.
+
+    📍 Pune is where I call home, but the web is my playground.
+   
+    💻 I enjoy tinkering with code, building cool projects and solving complex problems.
+
+    👯 Always seeking innovative projects and collabs to grow my skills.
+
+    👨‍💻 Passionate about contributing to open-source and learning new tech.
+
+    📚 In my free time, I read books on personal development and entrepreneurship.
+
+    💬 If you want to talk code, hit me up!
+
+
 ## About Me
 
 I'm a first-year student at DY Patil International University, Akurdi, Pune. I am a passionate technology enthusiast who loves exploring new technologies and coding languages. My journey in coding began at the age of 12, and since then, I've worked on several exciting projects that have honed my coding skills. 
@@ -94,21 +111,6 @@ I'm a first-year student at DY Patil International University, Akurdi, Pune. I a
 * Completed several Wordpress development and E-commerce platform development projects.
 
 
-👨‍💻 Who Am I?
-
-    🙂 Hola, I'm Onkar Yaglewad, a FY student at DYPIU, Akurdi, Pune.
-
-    📍 Pune is where I call home, but the web is my playground.
-   
-    💻 I enjoy tinkering with code, building cool projects and solving complex problems.
-
-    👯 Always seeking innovative projects and collabs to grow my skills.
-
-    👨‍💻 Passionate about contributing to open-source and learning new tech.
-
-    📚 In my free time, I read books on personal development and entrepreneurship.
-
-    💬 If you want to talk code, hit me up!
 
 
 </div>
