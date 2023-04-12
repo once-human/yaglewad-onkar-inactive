@@ -40,8 +40,6 @@
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaglewad-onkar&theme=github_dark&show_icons=true" />
 
- <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaglewad-onkar&theme=tokyonight"  />
-
 </div>
 
 
