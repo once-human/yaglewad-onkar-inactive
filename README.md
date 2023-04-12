@@ -32,6 +32,20 @@
 <br>
 </div>
 
+
+<!-- Stats 2 -->
+<div>
+    <h2><img  width="35"
+            src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
+
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaglewad-onkar&theme=github_dark&show_icons=true" />
+
+ <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaglewad-onkar&theme=tokyonight"  />
+
+</div>
+
+
+
 <!--Skill And More Information--> 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaglewad-onkar&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Onkar's Github stats" /> 
