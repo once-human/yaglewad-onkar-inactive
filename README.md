@@ -76,10 +76,14 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=yaglewad-onkar&theme=tokyonight_duo&hide_border=true"
 </p>
 
+<div align = 'center'>
 
 ## About Me
 
 I'm a first-year student at DY Patil International University, Akurdi, Pune. I am a passionate technology enthusiast who loves exploring new technologies and coding languages. My journey in coding began at the age of 12, and since then, I've worked on several exciting projects that have honed my coding skills. 
+</div>
+
+<div align = 'center'>
 
 ## Projects
 
@@ -89,6 +93,24 @@ I'm a first-year student at DY Patil International University, Akurdi, Pune. I a
 * WebGL and Web Screen development of Atmos, a 3D social interactive VR space platform startup.
 * Completed several Wordpress development and E-commerce platform development projects.
 
+
+🕵️‍♂️ About Me
+
+    🙂 I am Mohamed Abdelmonem And Im 19 years old.
+
+    📍 Im Egyptian and I live in Mansoura,Egypt.
+   
+    😎 Interested in contributing expertise in web development.
+
+    👯 Looking to collaborate on Innovative Projects.
+
+    👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
+
+    📚 Love reading books on personal development.
+
+    💬 Ask me about Web.
+
+</div>
 ## Languages and Tools
 
 * ReactJS
