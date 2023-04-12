@@ -18,6 +18,12 @@
 <!--Graph-->
 ![Onkar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yaglewad-onkar&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
+<!--Skill And More Information--> 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaglewad-onkar&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Onkar's Github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaglewad-onkar&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div> 
+
 ## About Me
 
 I'm a first-year student at DY Patil International University, Akurdi, Pune. I am a passionate technology enthusiast who loves exploring new technologies and coding languages. My journey in coding began at the age of 12, and since then, I've worked on several exciting projects that have honed my coding skills. 
