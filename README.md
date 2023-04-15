@@ -11,7 +11,7 @@
 
 
 <!-- Welcome Typing -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;CSE+Undergrad'26+|+D+Y+Patil+International+University;I'm+from+Pune;I'm+18+years+old;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;CSE+Undergrad'26+|+DYPIU;I'm+from+Pune;I'm+18+years+old;)
 
 
 <!-- Snake Generation -->
