@@ -135,11 +135,6 @@
 * Cpp
 
 
-<h1 align="center">Hi 👋, I'm Onkar Yaglewad</h1>
-<h3 align="center">CSE Undergrad'26 | D Y Patil International University</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaglewad-onkar&label=Profile%20views&color=0e75b6&style=flat" alt="yaglewad-onkar" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaglewad-onkar" alt="yaglewad-onkar" /></a> </p>
 
 
@@ -152,14 +147,7 @@
 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yaglewad_onkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaglewad-onkar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21453288) 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yaglewad-onkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yaglewad-onkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaglewad-onkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yaglewad-onkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
