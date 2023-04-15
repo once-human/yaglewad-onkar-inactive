@@ -11,7 +11,7 @@
 
 
 <!-- Welcome Typing -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;I'm+from+Pune;I'm+18+years+old;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;CSE+Undergrad'26+|+D+Y+Patil+International+University;I'm+from+Pune;I'm+18+years+old;)
 
 
 <!-- Snake Generation -->
@@ -134,13 +134,6 @@
 * C
 * Cpp
 
-
-
-## Let's Connect!
-
-If you're interested in working on exciting projects, feel free to reach out and let's connect!
-
-[LinkedIn](https://www.linkedin.com/in/onkar-yaglewad-0506091b2/) | [GitHub](https://github.com/onyxraven2001)
 
 <h1 align="center">Hi 👋, I'm Onkar Yaglewad</h1>
 <h3 align="center">CSE Undergrad'26 | D Y Patil International University</h3>
