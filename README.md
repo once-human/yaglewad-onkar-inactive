@@ -135,7 +135,7 @@
 * Cpp
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaglewad-onkar&no-frame=true&column=-1&margin-w=15&margin-h=15&theme=darkhub" alt="yaglewad-onkar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaglewad-onkar&no-frame=true&column=-1&margin-w=15&margin-h=15&theme=onedark" alt="yaglewad-onkar" /></a> </p>
 
 
 
