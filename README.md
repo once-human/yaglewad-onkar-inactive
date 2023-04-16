@@ -1,5 +1,4 @@
 <!-- <img src='https://github.com/yaglewad-onkar/readme/blob/main/assets/bottom_up.svg'> -->
-trial text
 
 <!-- Header gif -->
 ![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
