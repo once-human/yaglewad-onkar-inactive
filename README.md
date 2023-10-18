@@ -14,16 +14,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;CSE+Undergrad'26+|+DYPIU;I'm+from+Pune;I'm+18+years+old;)
 
 
-<!-- Snake Generation -->
-<div align="center">
-
-![Onkar's GitHub activity graph](https://raw.githubusercontent.com/yaglewad-onkar/yaglewad-onkar/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-
-
-![Onkar's GitHub activity graph](https://raw.githubusercontent.com/yaglewad-onkar/yaglewad-onkar/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-
-</div>
-
 <!-- Socials - Connect with me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
