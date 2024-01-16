@@ -11,7 +11,7 @@
 
 
 <!-- Welcome Typing -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;CSE+Undergrad'26+|+DYPIU;I'm+from+Pune;I'm+18+years+old;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ツ;Hey+I'm+Onkar+Yaglewad;CSE+Undergrad'26+|+DYPIU;I'm+from+Pune;I'm+19+years+old;)
 
 
 <!-- Socials - Connect with me -->
@@ -70,7 +70,7 @@
 
 ## 👨‍💻 Who Am I?
 
-    🙂 Hola, I'm Onkar Yaglewad, a FY student at DYPIU, Akurdi, Pune.
+    🙂 Hola, I'm Onkar Yaglewad, a SY student at DYPIU, Akurdi, Pune.
 
     📍 Pune is where I call home, but the web is my playground.
    
