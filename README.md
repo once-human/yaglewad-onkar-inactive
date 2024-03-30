@@ -35,11 +35,6 @@
 </div>
 
 
-
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaglewad-onkar&theme=github_dark&show_icons=true" />
-
-</div>
-
 ###
 ###
 
