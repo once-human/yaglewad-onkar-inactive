@@ -35,10 +35,6 @@
 </div>
 
 
-<!-- Stats 2 -->
-<div align='center'>
-    <h2><img  width="35"
-            src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaglewad-onkar&theme=github_dark&show_icons=true" />
 
