@@ -1,4 +1,4 @@
-<!-- <img src='https://github.com/yaglewad-onkar/readme/blob/main/assets/bottom_up.svg'> -->
+<!-- <img src='https://github.com/once-human/readme/blob/main/assets/bottom_up.svg'> -->
 <!-- Trial -->
 <!-- Header gif -->
 ![Banner](https://user-images.githubusercontent.com/112754335/225914032-81c09ea0-83d2-4531-b492-6b8217b7d03e.gif)
@@ -30,7 +30,7 @@
 <!-- Visitor's Count -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaglewad-onkar}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{once-human}/count.svg" /></p> 
 <br>
 </div>
 
@@ -44,8 +44,8 @@
 
 <!--Skill And More Information--> 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaglewad-onkar&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Onkar's Github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaglewad-onkar&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=once-human&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Onkar's Github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=once-human&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div> 
 
 ###
@@ -54,7 +54,7 @@
 ###
  <!--Total Contributions--> 
  <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=yaglewad-onkar&theme=tokyonight_duo&hide_border=true"
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=once-human&theme=tokyonight_duo&hide_border=true"
 </p>
 
 <div align = 'center'>
@@ -108,7 +108,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaglewad-onkar&no-frame=true&column=-1&margin-w=15&margin-h=15&theme=onedark" alt="yaglewad-onkar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=once-human&no-frame=true&column=-1&margin-w=15&margin-h=15&theme=onedark" alt="once-human" /></a> </p>
 
 
 
